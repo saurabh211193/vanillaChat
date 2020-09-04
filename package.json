@@ -10,7 +10,7 @@
     "express": "^4.10.2",
     "express-session": "^1.13.0",
     "ioredis": "^2.2.0",
-    "mongodb": "^2.2.1",
+    "mongodb": "^3.6.1",
     "mongoose": "^4.5.3",
     "redis": "^2.6.2",
     "socket.io": "^1.2.0",
